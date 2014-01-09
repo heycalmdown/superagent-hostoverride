@@ -9,7 +9,7 @@
   "optionalDependencies": {
   },
   "peerDependencies": {
-    "superagent": "~0.16.x"
+    "superagent": "~0.15.4"
   },
   "repository": {
     "type": "git",
